@@ -8,7 +8,7 @@ import json
 @author: Antoine ADAM
 @email: contact@antoineadam.fr
 @date: 08/04/2020
-@description: This program allows to scan all the python files of a directory to detect if it uses native function / variable or unauthorized import
+@description: This program allows to scan all the python files of a directory to detect if they use native functions / variables or unauthorized import
 @usage: python3 checkHack.py -d <directory> -o <output_file>
 @example: python3 checkHack.py -d /home/antoine/Documents/ -o /home/antoine/Documents/output.jso
 """
