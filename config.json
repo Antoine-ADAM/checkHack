@@ -1,0 +1,1 @@
+{"import_authorized": ["my_library"], "prohibited_function": ["breakpoint", "compile", "eval", "exec", "exit", "locals", "globals", "help", "__loader__", "__file__"]}
